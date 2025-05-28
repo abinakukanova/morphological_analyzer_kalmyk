@@ -1,0 +1,1 @@
+# morphological_analyzer_kalmyk
